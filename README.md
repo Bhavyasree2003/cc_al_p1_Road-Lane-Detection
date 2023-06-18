@@ -39,3 +39,22 @@ Lane detection involves identifying and tracking lanes on the road using compute
 
 6.Machine Learning and Deep Learning: These techniques involve training models on annotated images to learn lane features and patterns. Machine learning algorithms, such as Convolutional Neural Networks (CNNs), have shown promising results in lane detection, achieving high accuracy and robustness.
 
+To run the project:
+*********************
+To run this project in Jupyter Notebook, you can follow these steps:
+
+1.Open Jupyter Notebook in your web browser.
+
+2.Create a new notebook or open an existing one.
+
+3.Copy and paste the code into a code cell in the notebook.
+
+4.Save the image file 'road.jpg' in the same directory as your notebook file.
+
+5.Run the code cell by clicking the "Run" button or using the Shift + Enter keyboard shortcut.
+
+6.The code will be executed, and the output image with the detected lane lines will be displayed below the code cell
+
+7.The code will execute and display the result in the notebook's output. If you encounter any errors or issues, make sure you have the required libraries installed and that the image file is accessible.
+
+

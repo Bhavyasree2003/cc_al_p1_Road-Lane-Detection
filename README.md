@@ -39,6 +39,10 @@ Lane detection involves identifying and tracking lanes on the road using compute
 
 6.Machine Learning and Deep Learning: These techniques involve training models on annotated images to learn lane features and patterns. Machine learning algorithms, such as Convolutional Neural Networks (CNNs), have shown promising results in lane detection, achieving high accuracy and robustness.
 
+USAGE
+*********
+!pip install -q opencv-python
+
 To run the project:
 *********************
 To run this project in Jupyter Notebook, you can follow these steps:

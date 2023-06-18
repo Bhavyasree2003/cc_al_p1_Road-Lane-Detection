@@ -61,4 +61,26 @@ To run this project in Jupyter Notebook, you can follow these steps:
 
 7.The code will execute and display the result in the notebook's output. If you encounter any errors or issues, make sure you have the required libraries installed and that the image file is accessible.
 
+Lane Detection using OpenCV and Python
+****************************************************************
+In this section, we will explore how to detect lanes using OpenCV and Python. We will use edge detection and the Hough transform to detect the lanes.
 
+Step 1: Import Libraries
+
+Step 2: Read the Image
+
+Step 3: Convert Image to Grayscale
+
+Step 4: Apply Gaussian Blur
+
+Step 5: Detect Edge Using Canny
+
+Step 6: Region of Interest
+
+Step 7: Hough Transform
+
+Step 8: Draw Lines on the Image
+
+Step 9: Overlaying the Lines on the Original Image
+
+Step 10: Display Result
